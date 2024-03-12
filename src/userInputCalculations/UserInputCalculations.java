@@ -54,7 +54,7 @@ public class UserInputCalculations {
 			
 			System.out.println("Total: " + total);
 			System.out.println("Average: " + average);
-			System.out.println("Maxium: " + maximumInput);
+			System.out.println("Maximum: " + maximumInput);
 			System.out.println("Minimum: " + minimumInput);
 			System.out.println("Interest at 20%: " + interest);	
 		}
